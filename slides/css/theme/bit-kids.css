@@ -1,0 +1,22 @@
+@import url(../../reveal.js/css/theme/white.css);
+
+body {
+  background: #fdf6e3;
+  background-color: #fdf6e3;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  color: #586e75;
+}
+
+.reveal {
+  color: #586e75;
+}
+
+.reveal a {
+  color: #268bd2;
+}
+
+.reveal a:hover {
+  color: #78b9e6;
+}
